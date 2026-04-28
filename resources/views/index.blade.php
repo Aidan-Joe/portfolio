@@ -13,7 +13,7 @@
 
     <div class="flex gap-4 mb-16" data-aos="fade-up" data-aos-delay="400">
         <a href="#projects" class="bg-red-600 px-8 py-3 rounded-lg font-semibold transition">View Projects</a>
-        <a href="{{ asset('assets/cv-aidan-joe.pdf') }}" download class="border border-slate-600 px-8 py-3 rounded-lg transition">Download CV</a>
+        <a href="{{ asset('assets/Aidan-Rabbihafiz-Joe-CV-Resume.pdf') }}" download class="border border-slate-600 px-8 py-3 rounded-lg transition">Download CV</a>
     </div>
 
     <!-- Stats Section - Dibuat lebih rapat di tengah -->
